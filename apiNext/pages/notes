@@ -1,0 +1,5 @@
+//Styling components
+//Traditional CSS
+//CSS in js styling
+//Practical issues to consider with Traditional CSS file based styling, avoid with NEXT.js
+//Recommended: CSS in JS, preloaded with CSS in js framework, styled-jsx
